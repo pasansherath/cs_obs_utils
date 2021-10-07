@@ -7,7 +7,7 @@ orient.py is a Python3 script to estimate the angle between the airgun shot line
 It uses a hodogram (particle motion) analysis and a polarisation analysis of the first arriving direct water wave from
 the airgun shot recorded by the ocean bottom seismograph.
 
-This code is a part from my PhD research work, inspired by the work of Flinn [1965], Perelberg [1994] and Eccles [2008].
+This code is a part from my PhD research work [Herath, 2021], inspired by the work of Flinn [1965], Perelberg [1994] and Eccles [2008].
 
 #### Required libraries:
 1. numpy
