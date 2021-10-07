@@ -1,13 +1,13 @@
-# cs_obs_utils
+# cs_obs_utils (Controlled-source Ocean Bottom Seismograph Utilities)
 
-## A set of Python utilities to process controlled source seismic data recorded by ocean bottom seismographs (OBSs).
+### A set of Python utilities to process controlled source seismic data recorded by ocean bottom seismographs (OBSs).
 
-### orient.py
+## orient.py
 orient.py is a Python3 script to estimate the angle between the airgun shot line and the horizontal components of OBSs. 
 It uses a hodogram (particle motion) analysis and a polarisation analysis of the first arriving direct water wave from
 the airgun shot recorded by the ocean bottom seismograph.
 
-This code is a part from my PhD thesis.
+This code is a part from my PhD research work, inspired by the work of Flinn [1965], Perelberg [1994] and Eccles [2008].
 
 #### Required libraries:
 1. numpy
