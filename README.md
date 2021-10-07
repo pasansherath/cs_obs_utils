@@ -33,6 +33,9 @@ Two segy files (H1.segy and H2.segy) are provided to test and visualise the func
 To try this, clone the repository to your local computer and run the following command.
 `python3 orient.py`
 
+#### TO DO:
+1. Resolving ambiguity of the angle determined from orient.py
+
 #### References:
 1. Flinn, E. A. (1965). Signal Analysis Using Rectilinearity and Direction of Particle Motion. Proceedings of the IEEE, 53(12), 1874–1876. https://doi.org/10.1109/PROC.1965.4462
 2. Perelberg, A. I., & Hornbostel, S. C. (1994). Applications of seismic polarization analysis. GEOPHYSICS, 59(1), 119–130. https://doi.org/10.1190/1.1443522
