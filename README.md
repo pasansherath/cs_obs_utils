@@ -24,6 +24,10 @@ It is recommended that you used a conda environmet with these libraries installe
 1. A trace header that can identify traces within the direct water arrival (first arrival) and its start and end values
 2. Sliding window parameters for particle motion plotting and polarisation angle calculation
 
+#### Outputs:
+Plots of particle motion (hodogram) and polarisation angles on the horizontal plane of the direct water arrival to estimate 
+the angle between the shot line and the horizontal components. 
+
 #### Example: 
 Two segy files (H1.segy and H2.segy) are provided to test and visualise the functionality.
 To try this, clone the repository to your local computer and run the following command.
